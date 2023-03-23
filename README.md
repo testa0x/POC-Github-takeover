@@ -1,3 +1,3 @@
-# POC-Github-takeover-www.cirteam.aa.com
+# POC-Github-takeover
 
 By lucqsx
